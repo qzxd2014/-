@@ -2,6 +2,7 @@
 #EXT-X-VERSION:3
 #EXT-X-TARGETDURATION:220
 #EXT-X-LOOP:1
+#EXT-X-MEDIA-SEQUENCE:0
 
 #EXTINF:205,将想念藏进风里
 https://res.ctmus.cn/app_yunshang3.v1/wav/2025/11/14/8/b5/d0443f25-906d-4a35-940e-7d4b10f320da.wav
