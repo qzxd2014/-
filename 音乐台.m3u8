@@ -1,0 +1,10 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-TARGETDURATION:220（已按最长音频时长设置）
+#EXTINF:205,将想念藏进风里
+https://res.ctmus.cn/app_yunshang3.v1/wav/2025/11/14/8/b5/d0443f25-906d-4a35-940e-7d4b10f320da.wav
+#EXTINF:218,我想，我想（军营版）
+https://res.ctmus.cn/app_yunshang3.v1/wav/2025/11/09/9/26/3255952b-dbfd-4b1d-8801-4e60707ae120.wav
+#EXT-X-ENDLIST
+#EXT-X-LOOP:1（无限轮播，如需固定次数可直接修改数字）
